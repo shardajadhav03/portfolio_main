@@ -522,9 +522,11 @@ h1 {
         bottom: 0;
 
     }
-
-    .about1 .home {
-        margin-left: 0px;
+    .home{
+        margin-left: 1rem;
+    }
+    .pro{
+        margin-left: 1rem;
     }
 
     #container,
